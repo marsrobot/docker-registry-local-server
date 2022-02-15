@@ -1,5 +1,5 @@
 export CONTAINER_NAME=docker-registry-local-server
-export DATA_DIR=/mnt/data
+export DATA_DIR=/local
 
 sudo mkdir -p ${DATA_DIR}/var/lib/registry
 
